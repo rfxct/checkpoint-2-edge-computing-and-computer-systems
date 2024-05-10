@@ -14,9 +14,6 @@ Se trata do checkpoint/avaliação para a matéria de Edge Computing and Compute
 # Membros
 - Marcos Ferreira (RM 556228)
 - Alex Ribeiro (RM 557356)
-- Davi Vieira (RM 556798)
-- Luca Monteiro (RM 556906)
-- Felipe Vicente (RM 555819)
 
 # Protótipo
 O projeto também pode ser acessado [clicando aqui](https://www.tinkercad.com/things/0iTzjwcOyiw-marcos-checkpoint-2-edge-computing-and-computer-systems)
